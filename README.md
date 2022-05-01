@@ -7,7 +7,7 @@ A rubik's cube solver.
 
 ## Play It
 
-http://cube.zxh.io
+https://haidargit.github.io/3x3_rubiksolver/
 
 
 &nbsp;
@@ -107,15 +107,15 @@ For example:
 
 ## Algorithm
 
-### Layer By Layer (层先法)
+### Layer By Layer
 
-- [x] The First Layer Edges | 底部棱块归位
-- [x] The First Layer Corners | 底部角块归位
-- [x] The Second Layer | 复原第二层
-- [x] The Top Cross | 顶部十字
-- [x] The Third Layer Corners (Position) | 顶部角块归位（位置）
-- [x] The Third Layer Corners (Orient) | 顶部角块归位（方向）
-- [x] The Third Layer Edges |  顶部棱块归位
+- [x] The First Layer Edges 
+- [x] The First Layer Corners 
+- [x] The Second Layer 
+- [x] The Top Cross 
+- [x] The Third Layer Corners (Position) 
+- [x] The Third Layer Corners (Orient) 
+- [x] The Third Layer Edges 
 
 ### Two-Phase Algorithm
 
